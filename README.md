@@ -2,7 +2,7 @@
   <img width="90%" alt="tokenvm" src="assets/logo.png">
 </p>
 <p align="center">
-  Mint, Transfer, and Trade User-Generated Tokens, All On-Chain
+  Mint, Transfer,and Trade User-Generated Tokens, All On-Chain
 </p>
 <p align="center">
   <a href="https://github.com/ava-labs/hypersdk/actions/workflows/tokenvm-static-analysis.yml"><img src="https://github.com/ava-labs/hypersdk/actions/workflows/tokenvm-static-analysis.yml/badge.svg" /></a>
